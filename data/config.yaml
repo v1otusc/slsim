@@ -1,0 +1,14 @@
+%YAML:1.0
+---
+alpha:     11.0       # laser-ground angle          -- deg
+lh:        120.0      # laser horizontal angle      -- deg
+vf:        78.0       # FOV vertical angle          -- deg
+hf:        100.0      # FOV horizontal angle        -- deg
+hl:        0.06       # laser emitter height        -- m
+hc:        0.04       # camera height               -- m
+av:        3.0        # angular velocity            -- rad/s
+rr:        0.15       # robot radius                -- m
+fx:        330.0      # focal length                -- px
+fy:        330.0      # focal length                -- px
+cx:        320.0      # principal point in width    -- px
+cy:        240.0      # principal point in height   -- px
